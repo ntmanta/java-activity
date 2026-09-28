@@ -1,0 +1,2 @@
+Hello! My name is Norman Manta.
+I am a student learning Java and Git.
