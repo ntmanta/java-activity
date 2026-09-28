@@ -1,0 +1,16 @@
+Java Program Notes
+Name: Norman Namanta
+
+Java is an object-oriented programming language. Programs are written
+in .java files, compiled into bytecode, and run by the JVM.
+
+Sample program:
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+Explanation: The class HelloWorld holds the program. The main method is
+the entry point, and System.out.println prints text to the screen.
